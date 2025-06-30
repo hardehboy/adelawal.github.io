@@ -9,20 +9,31 @@ nav-menu: true
 <style>
   body {
     background-color: #ffffff; /* white background */
-    color: #2f4f4f; /* dark slate gray text */
+    color: #2f4f4f; /* dark slate gray main text */
     font-family: Arial, sans-serif;
     max-width: 900px;
     margin: 40px auto;
     padding: 0 20px;
     line-height: 1.6;
   }
+
+  h2, h3 {
+    color: #1e3a8a; /* a strong blue for headings */
+  }
+
+  p, ul, li {
+    color: #2f4f4f; /* same dark slate gray for paragraphs and lists */
+  }
+
   a {
-    color: #2a7ae2; /* nice blue for links */
+    color: #2563eb; /* brighter blue links */
     text-decoration: none;
   }
+
   a:hover {
     text-decoration: underline;
   }
+
   img {
     max-width: 100%;
     height: auto;
@@ -30,8 +41,14 @@ nav-menu: true
     margin: 20px 0;
     box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
   }
+
+  /* Optional: style strong/bold text */
+  strong {
+    color: #1e40af; /* deeper blue */
+  }
 </style>
 
+<!-- Your HTML content below -->
 <h2>Task Overview</h2>
 <p>This project analyzes microdata from 2021 to explore financial inclusion trends.</p>
 <p>Perform the following tasks in RStudio:</p>
@@ -68,12 +85,4 @@ nav-menu: true
 
 <h2>Results</h2>
 <p>Both GDP_PPP and Life_expectancy are highly significant predictors of percent_with_account, with p-values < 2e-16.</p>
-<p>The model explains about 43.1% of the variation in account ownership across countries (R-squared = 0.4314).</p>
-<p>The coefficients suggest that higher GDP_PPP and longer life expectancy are associated with increased account ownership.</p>
-
-<h2>How to use</h2>
-<p>Open the R project file in RStudio and run the scripts.</p>
-
-<p>📄 <a href="https://github.com/hardehboy/MyRProject" target="_blank">
-  View R script on GitHub
-</a></p>
+<p>The model explains about 43.1% of the v

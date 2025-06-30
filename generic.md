@@ -5,41 +5,8 @@ description: R Studio Analysis
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
-<style>
-  body {
-    font-family: Arial, sans-serif;
-    max-width: 900px;
-    margin: 40px auto;
-    padding: 0 20px;
-    line-height: 1.6;
-    background-color: #f9f9f9;
-    color: #333;
-  }
-  h1, h2, h3 {
-    color: #2a7ae2;
-  }
-  ul {
-    margin-bottom: 20px;
-  }
-  a {
-    color: #2a7ae2;
-    text-decoration: none;
-  }
-  a:hover {
-    text-decoration: underline;
-  }
-  img {
-    max-width: 100%;
-    height: auto;
-    border: 1px solid #ccc;
-    margin: 20px 0;
-    box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
-  }
-</style>
-
-<p>This project analyzes microdata from 2021 to explore financial inclusion trends.</p>
-
 <h2>Task Overview</h2>
+<p>This project analyzes microdata from 2021 to explore financial inclusion trends.</p>
 <p>Perform the following tasks in RStudio:</p>
 <ul>
   <li>Operationalization and data preparation</li>

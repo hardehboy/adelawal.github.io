@@ -39,6 +39,11 @@ nav-menu: true
 <h3>Financial Inclusion vs GDP per Capita</h3>
 <img src="scatterplot.png" alt="Scatter Plot: Financial Inclusion vs GDP per Capita" />
 
+<h2>Results</h2>
+<p>Both GDP_PPP and Life_expectancy are highly significant predictors of percent_with_account, with p-values < 2e-16.</p>
+<p>The model explains about 43.1% of the variation in account ownership across countries (R-squared = 0.4314).</p>
+<p>The coefficients suggest that higher GDP_PPP and longer life expectancy are associated with increased account ownership.</p>
+
 <h2>How to use</h2>
 <p>Open the R project file in RStudio and run the scripts.</p>
 

@@ -42,7 +42,7 @@ nav-menu: true
 <h2>How to use</h2>
 <p>Open the R project file in RStudio and run the scripts.</p>
 
-<p>📄 <a href="https://github.com/hardehboy/MyRProject/blob/main/Findex%20R%20Project.R" target="_blank">
+<p>📄 <a href="https://github.com/hardehboy/MyRProject" target="_blank">
   View R script on GitHub
 </a></p>
 

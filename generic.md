@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Global Findex Financial Inclusion Analysis
@@ -10,18 +9,18 @@ nav-menu: true
 <p>This project analyzes microdata from 2021 to explore financial inclusion trends.</p>
 <p>Perform the following tasks in RStudio:</p>
 <ul>
-<li>Operationalization and data preparation</li>
-<li>Descriptive statistics
-<ul>
-<li>Bar plot</li>
-<li>Scatter plot</li>
-</ul>
-</li>
-<li>Inferential statistics
-<ul>
-<li>OLS linear regression</li>
-</ul>
-</li>
+  <li>Operationalization and data preparation</li>
+  <li>Descriptive statistics
+    <ul>
+      <li>Bar plot</li>
+      <li>Scatter plot</li>
+    </ul>
+  </li>
+  <li>Inferential statistics
+    <ul>
+      <li>OLS linear regression</li>
+    </ul>
+  </li>
 </ul>
 
 <h2>Data source</h2>
@@ -49,5 +48,5 @@ nav-menu: true
 <p>Open the R project file in RStudio and run the scripts.</p>
 
 <p>📄 <a href="https://github.com/hardehboy/MyRProject" target="_blank">
-View R script on GitHub
+  View R script on GitHub
 </a></p>

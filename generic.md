@@ -25,10 +25,10 @@ nav-menu: true
 
 <h2>Data source</h2>
 <p>The Micro-Dataset and related resources come from:</p>
-<p><strong>“The Global Findex Database 2021: Financial Inclusion, Digital Payments, and Resilience in the Age of COVID-19”</strong></p>
+<p><strong>The Global Findex Database 2021: Financial Inclusion, Digital Payments, and Resilience in the Age of COVID-19</strong></p>
 <p><a href="https://www.worldbank.org/en/publication/globalfindex" target="_blank">https://www.worldbank.org/en/publication/globalfindex</a></p>
 
-<p>The Macro data (country-level) comes from the World Bank Development Indicators</p>
+<p><strong>The Macro data (country-level) comes from the World Bank Development Indicators<p><strong>
 <p><a href="https://databank.worldbank.org/reports.aspx?source=2&country=ARE" target="_blank">https://databank.worldbank.org/reports.aspx?source=2&country=ARE</a></p>
 
 <h2>Plots</h2>

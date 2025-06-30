@@ -3,8 +3,8 @@ title: Ade
 subtitle: by HTML5 UP
 email: hardehboy08@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+baseurl: "/adelawal.github.io" 
+url: "https://hardehboy.github.io"
 author:
 street_address: Ostendstraße
 city: Berlin

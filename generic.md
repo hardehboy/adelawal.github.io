@@ -2,7 +2,7 @@
 layout: post
 title: Global Findex Financial Inclusion Analysis
 description: R Studio Analysis
-image: assets/images/pic12.jpg
+image: assets/images/14.webp
 nav-menu: true
 ---
 <h2>Task Overview</h2>

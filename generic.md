@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Global Findex Financial Inclusion Analysis with R
-description: Lorem ipsum dolor est
+title: Global Findex Financial Inclusion Analysis
+description: R Studion Analysis
 image: assets/images/pic11.jpg
 nav-menu: true
 ---

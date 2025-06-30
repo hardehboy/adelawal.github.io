@@ -2,7 +2,7 @@
 layout: post
 title: Global Findex Financial Inclusion Analysis
 description: R Studio Analysis
-image: assets/images/14.webp
+image: assets/images/13.jpg
 nav-menu: true
 ---
 <h2>Task Overview</h2>
@@ -30,14 +30,6 @@ nav-menu: true
 
 <p><strong>The Macro data (country-level) comes from the World Bank Development Indicators<p><strong>
 <p><a href="https://databank.worldbank.org/reports.aspx?source=2&country=ARE" target="_blank">https://databank.worldbank.org/reports.aspx?source=2&country=ARE</a></p>
-
-<h2>Plots</h2>
-
-<h3>Financial Inclusion by Gender and Education Level</h3>
-<img src="barplot.png" alt="Bar Plot: Financial Inclusion by Gender and Education Level" />
-
-<h3>Financial Inclusion vs GDP per Capita</h3>
-<img src="scatterplot.png" alt="Scatter Plot: Financial Inclusion vs GDP per Capita" />
 
 <h2>Results</h2>
 <p>Both GDP_PPP and Life_expectancy are highly significant predictors of percent_with_account, with p-values < 2e-16.</p>

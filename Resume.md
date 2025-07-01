@@ -20,6 +20,7 @@ nav-menu: true
 <h3 id="content">Agrivine UK - Project Lead</h3>
 <li>Coordinated multi-stakeholder agricultural and land-use projects with government bodies, rural cooperatives, NGOs, and private sector partners.</li>
 <li>Led stakeholder mapping and engagement strategies for inclusive and sustainable land management.</li>	
+
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Abiok PLC - Business Strategist</h3>
@@ -40,11 +41,11 @@ nav-menu: true
 
 <!-- Text stuff -->
 <h3>Master of International Development and Economics</h3>
-<li>Hochschule für Technik und Wirtschaft Berlin.</p>
+<li>Hochschule für Technik und Wirtschaft Berlin.</li>
 <h3>Master of Economics</h3>
-<li>Jilin University, China.</p>
+<li>Jilin University, China.</li>
 <h3>Bachelor of Aquaculture and Fisheries</h3>
-<li>Federal University of Agriculture, Abeokuta.</p>
+<li>Federal University of Agriculture, Abeokuta.</li>
 <hr />
 <h2>Heading Level 2</h2>
 <h3>Heading Level 3</h3>

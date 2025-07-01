@@ -27,28 +27,41 @@ nav-menu: false
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Minqing Huayi Electrical Appliances - Foreign Trade Expert</h3>
-		<p>Managed international sales processes including lead sourcing, CRM updates, and client communication.</p>
+		<li>Managed international sales processes including lead sourcing, CRM updates, and client communication.<li>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>FCAH - Junior Research Analyst</h3>
-		<p>Engaged in the collection and analysis of market data, identifying potential areas for economic development and market expansion for community development.</p>
+		<li>Engaged in the collection and analysis of market data, identifying potential areas for economic development and market expansion for community development.<li>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
 		<h3>Abiok Publicity Limited Company - Business Development and Strategy Specialist</h3>
-		<p>Developed strategic plans that aligned with the company's vision, focusing on expansion into new markets, securing high-value clients, and exploring innovative advertising solutions</p>
+		<li>Developed strategic plans that aligned with the company's vision, focusing on expansion into new markets, securing high-value clients, and exploring innovative advertising solutions<li>
 	</div>
 </div>
 
 <hr class="major" />
 
 <!-- Elements -->
-<h2 id="elements">Elements</h2>
+<h2 id="elements">Education</h2>
 <div class="row 200%">
 	<div class="6u 12u$(medium)">
 
 <!-- Text stuff -->
-<h3>Text</h3>
+<h3>Master of International Development and Economics</h3>
+<h4>Hochschule für Technik und Wirtschaft<h4>
+<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
+This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
+This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>.
+Finally, this is a <a href="#">link</a>.</p>
+<h3>Master of Economics in International Trade</h3>
+<h4>Jilin University<h4>
+<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
+This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
+This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>.
+Finally, this is a <a href="#">link</a>.</p>	
+<h3>Bachelor of Aquaculture and Fisheries Management</h3>
+<h4>Federal University of Agriculture, Abeokuta<h4>
 <p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
 This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
 This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>.

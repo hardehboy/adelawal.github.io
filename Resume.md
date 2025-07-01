@@ -23,11 +23,11 @@ nav-menu: true
 
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Abiok PLC - Business Strategist</h3>
+		<h3 id="content">Abiok PLC - Business Strategist</h3>
 		<li>Developed strategic plans that aligned with the company's vision, focusing on expansion into new markets, securing high-value clients, and exploring innovative advertising solutions.</li>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>FCAH - Junior Analyst</h3>
+		<h3 id="content">FCAH - Junior Analyst</h3>
 		<li>Engaged in the collection and analysis of market data, identifying potential areas for economic development and market expansion for community development.</li>
 	</div>	
 </div>

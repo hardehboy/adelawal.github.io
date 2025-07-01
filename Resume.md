@@ -53,7 +53,11 @@ nav-menu: true
 
 <!-- Text stuff -->
 <h3>Master of International Development and Economic</h3>
-<p>Hochschule für Technik und Wirtschaft.</p>
+<p>Hochschule für Technik und Wirtschaft Berlin.</p>
+<h3>Master of Economics</h3>
+<p>Jilin University, China.</p>
+<h3>Bachelor of Aquaculture and Fisheries Management</h3>
+<p>Federal University of Agriculture, Abeokuta.</p>
 <hr />
 <h2>Heading Level 2</h2>
 <h3>Heading Level 3</h3>

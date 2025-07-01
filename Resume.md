@@ -15,15 +15,10 @@ nav-menu: false
 
 <!-- Content -->
 <h2 id="content">Work Experience</h2>
-<article>
 <h3>AGRIVINE UK - Project Lead</h3>
     <ul>
       <li>Coordinated multi-stakeholder agricultural and land-use projects with government bodies, rural cooperatives, NGOs, and private sector partners</li>
-      <li>Led stakeholder mapping and engagement strategies for inclusive and sustainable land management</li>
-    </ul>
-  </article>
-</section>
-	
+      <li>Led stakeholder mapping and engagement strategies for inclusive and sustainable land management</li>	
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Minqing Huayi Electrical Appliances - Foreign Trade Expert</h3>

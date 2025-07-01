@@ -18,16 +18,16 @@ nav-menu: true
 <!-- Content -->
 <h2 id="content">Work Experience</h2>
 <h3 id="content">Agrivine UK - Project Lead</h3>
-<p>Coordinated multi-stakeholder agricultural and land-use projects with government bodies, rural cooperatives, NGOs, and private sector partners.</p>
-<p>Led stakeholder mapping and engagement strategies for inclusive and sustainable land management.</p>
+<li>Coordinated multi-stakeholder agricultural and land-use projects with government bodies, rural cooperatives, NGOs, and private sector partners.
+<li>Led stakeholder mapping and engagement strategies for inclusive and sustainable land management.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Abiok PLC - Business Strategist</h3>
-		<p>Developed strategic plans that aligned with the company's vision, focusing on expansion into new markets, securing high-value clients, and exploring innovative advertising solutions.</p>
+		<li>Developed strategic plans that aligned with the company's vision, focusing on expansion into new markets, securing high-value clients, and exploring innovative advertising solutions.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>FCAH - Junior Analyst</h3>
-		<p>Engaged in the collection and analysis of market data, identifying potential areas for economic development and market expansion for community developmentt.</p>
+		<li>Engaged in the collection and analysis of market data, identifying potential areas for economic development and market expansion for community developmentt.</p>
 	</div>	
 </div>
 
@@ -40,11 +40,11 @@ nav-menu: true
 
 <!-- Text stuff -->
 <h3>Master of International Development and Economic</h3>
-<p>Hochschule für Technik und Wirtschaft Berlin.</p>
+<li>Hochschule für Technik und Wirtschaft Berlin.</p>
 <h3>Master of Economics</h3>
-<p>Jilin University, China.</p>
+<li>Jilin University, China.</p>
 <h3>Bachelor of Aquaculture and Fisheries</h3>
-<p>Federal University of Agriculture, Abeokuta.</p>
+<li>Federal University of Agriculture, Abeokuta.</p>
 <hr />
 <h2>Heading Level 2</h2>
 <h3>Heading Level 3</h3>
@@ -52,54 +52,6 @@ nav-menu: true
 <hr />
 <p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
 
-<!-- Lists -->
-<h3>Lists</h3>
-<div class="row">
-	<div class="6u 12u$(small)">
-
-		<h4>Unordered</h4>
-		<ul>
-			<li>Dolor etiam magna etiam.</li>
-			<li>Sagittis lorem eleifend.</li>
-			<li>Felis dolore viverra.</li>
-		</ul>
-
-		<h4>Alternate</h4>
-		<ul class="alt">
-			<li>Dolor etiam magna etiam.</li>
-			<li>Sagittis lorem eleifend.</li>
-			<li>Felis feugiat viverra.</li>
-		</ul>
-
-	</div>
-	<div class="6u$ 12u$(small)">
-
-		<h4>Ordered</h4>
-		<ol>
-			<li>Dolor etiam magna etiam.</li>
-			<li>Etiam vel lorem sed viverra.</li>
-			<li>Felis dolore viverra.</li>
-			<li>Dolor etiam magna etiam.</li>
-			<li>Etiam vel lorem sed viverra.</li>
-			<li>Felis dolore viverra.</li>
-		</ol>
-
-		<h4>Icons</h4>
-		<ul class="icons">
-			<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-			<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-			<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-			<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
-			<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
-			<li><a href="#" class="icon fa-tumblr"><span class="label">Tumblr</span></a></li>
-		</ul>
-		<ul class="icons">
-			<li><a href="#" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
-			<li><a href="#" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
-			<li><a href="#" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
-		</ul>
-
-	</div>
 </div>
 
 <h4>Definition</h4>

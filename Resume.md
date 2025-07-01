@@ -17,31 +17,18 @@ nav-menu: true
 
 <!-- Content -->
 <h2 id="content">Work Experiencet</h2>
-<h3 id="content">Agrivine UK - Project LeadWork</h2>
+<h3 id="content">Agrivine UK - Project Lead</h3>
 <p>Coordinated multi-stakeholder agricultural and land-use projects with government bodies, rural cooperatives, NGOs, and private sector partners.</p>
 <p>Led stakeholder mapping and engagement strategies for inclusive and sustainable land management.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Abiok Publicity Limited - Business Strategist</h3>
+		<h3>Abiok PLC - Business Strategist</h3>
 		<p>Developed strategic plans that aligned with the company's vision, focusing on expansion into new markets, securing high-value clients, and exploring innovative advertising solutions.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>FCAH - Junior Analyst</h3>
 		<p>Engaged in the collection and analysis of market data, identifying potential areas for economic development and market expansion for community developmentt.</p>
-	</div>
-	<!-- Break -->
-	<div class="4u 12u$(medium)">
-		<h3>Interdum sapien gravida</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
-	<div class="4u 12u$(medium)">
-		<h3>Faucibus consequat lorem</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
-	<div class="4u$ 12u$(medium)">
-		<h3>Accumsan montes viverra</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
+	</div>	
 </div>
 
 <hr class="major" />
@@ -56,7 +43,7 @@ nav-menu: true
 <p>Hochschule für Technik und Wirtschaft Berlin.</p>
 <h3>Master of Economics</h3>
 <p>Jilin University, China.</p>
-<h3>Bachelor of Aquaculture and Fisheries Management</h3>
+<h3>Bachelor of Aquaculture and Fisheries</h3>
 <p>Federal University of Agriculture, Abeokuta.</p>
 <hr />
 <h2>Heading Level 2</h2>

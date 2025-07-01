@@ -18,23 +18,16 @@ nav-menu: true
 <!-- Content -->
 <h2 id="content">Work Experience</h2>
 <h3 id="content">Agrivine UK - Project Lead</h3>
-</ul>
 <li>Coordinated multi-stakeholder agricultural and land-use projects with government bodies, rural cooperatives, NGOs, and private sector partners.</li>
 <li>Led stakeholder mapping and engagement strategies for inclusive and sustainable land management.</li>
- </ul>
-  </div>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Abiok PLC- Business Strategist</h3>
 		<li>Developed strategic plans that aligned with the company's vision, focusing on expansion into new markets, securing high-value clients, and exploring innovative advertising solutions.</li>
-		 </ul>
-  </div>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>FCAH - Junior Analyst</h3>
 		<li>Engaged in the collection and analysis of market data, identifying potential areas for economic development and market expansion for community development.</li>
-	 </ul>
-  </div>
 </div>
 	<!-- Break -->
 </div>

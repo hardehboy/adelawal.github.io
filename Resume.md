@@ -16,7 +16,7 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<h2 id="content">Work Experiencet</h2>
+<h2 id="content">Work Experience</h2>
 <h3 id="content">Agrivine UK - Project Lead</h3>
 <p>Coordinated multi-stakeholder agricultural and land-use projects with government bodies, rural cooperatives, NGOs, and private sector partners.</p>
 <p>Led stakeholder mapping and engagement strategies for inclusive and sustainable land management.</p>
@@ -29,8 +29,6 @@ nav-menu: true
 		<h3>FCAH - Junior Analyst</h3>
 		<p>Engaged in the collection and analysis of market data, identifying potential areas for economic development and market expansion for community developmentt.</p>
 	</div>	
-</div>
-
 <hr class="major" />
 
 <!-- Elements -->

@@ -29,6 +29,8 @@ nav-menu: true
 		<h3>FCAH - Junior Analyst</h3>
 		<p>Engaged in the collection and analysis of market data, identifying potential areas for economic development and market expansion for community developmentt.</p>
 	</div>	
+</div>
+
 <hr class="major" />
 
 <!-- Elements -->

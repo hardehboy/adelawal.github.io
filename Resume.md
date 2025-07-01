@@ -27,7 +27,7 @@ nav-menu: true
 		<li>Developed strategic plans that aligned with the company's vision, focusing on expansion into new markets, securing high-value clients, and exploring innovative advertising solutions.
 	<div class="6u$ 12u$(small)">
 		<h3>FCAH - Junior Analyst</h3>
-		<li>Engaged in the collection and analysis of market data, identifying potential areas for economic development and market expansion for community developmentt.
+		<li>Engaged in the collection and analysis of market data, identifying potential areas for economic development and market expansion for community development.
 	</div>	
 </div>
 
@@ -39,7 +39,7 @@ nav-menu: true
 	<div class="6u 12u$(medium)">
 
 <!-- Text stuff -->
-<h3>Master of International Development and Economic</h3>
+<h3>Master of International Development and Economics</h3>
 <li>Hochschule für Technik und Wirtschaft Berlin.</p>
 <h3>Master of Economics</h3>
 <li>Jilin University, China.</p>

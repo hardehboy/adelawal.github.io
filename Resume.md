@@ -2,10 +2,12 @@
 layout: page
 title: Résumé
 image: assets/images/pic01.jpg
-nav-menu: false
+nav-menu: true
 ---
+
 <!-- Main -->
 <div id="main" class="alt">
+
 <!-- One -->
 <section id="one">
 	<div class="inner">
@@ -14,24 +16,31 @@ nav-menu: false
 		</header>
 
 <!-- Content -->
-<h2 id="content">Work Experience</h2>
-<h3>AGRIVINE UK - Project Lead</h3>
-    <ul>
-      <li>Coordinated multi-stakeholder agricultural and land-use projects with government bodies, rural cooperatives, NGOs, and private sector partners</li>
-      <li>Led stakeholder mapping and engagement strategies for inclusive and sustainable land management</li>	
+<h2 id="content">Work Experiencet</h2>
+<h3 id="content">Agrivine UK - Project LeadWork</h2>
+<p>Coordinated multi-stakeholder agricultural and land-use projects with government bodies, rural cooperatives, NGOs, and private sector partners.</p>
+<p>Led stakeholder mapping and engagement strategies for inclusive and sustainable land management.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Minqing Huayi Electrical Appliances - Foreign Trade Expert</h3>
-		<li>Managed international sales processes including lead sourcing, CRM updates, and client communication.<li>
+		<h3>Abiok Publicity Limited - Business Strategist</h3>
+		<p>Developed strategic plans that aligned with the company's vision, focusing on expansion into new markets, securing high-value clients, and exploring innovative advertising solutions.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>FCAH - Junior Research Analyst</h3>
-		<li>Engaged in the collection and analysis of market data, identifying potential areas for economic development and market expansion for community development.<li>
+		<h3>FCAH - Junior Analyst</h3>
+		<p>Engaged in the collection and analysis of market data, identifying potential areas for economic development and market expansion for community developmentt.</p>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
-		<h3>Abiok Publicity Limited Company - Business Development and Strategy Specialist</h3>
-		<li>Developed strategic plans that aligned with the company's vision, focusing on expansion into new markets, securing high-value clients, and exploring innovative advertising solutions<li>
+		<h3>Interdum sapien gravida</h3>
+		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+	</div>
+	<div class="4u 12u$(medium)">
+		<h3>Faucibus consequat lorem</h3>
+		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+	</div>
+	<div class="4u$ 12u$(medium)">
+		<h3>Accumsan montes viverra</h3>
+		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
 	</div>
 </div>
 
@@ -43,24 +52,8 @@ nav-menu: false
 	<div class="6u 12u$(medium)">
 
 <!-- Text stuff -->
-<h3>Master of International Development and Economics</h3>
-<h4>Hochschule für Technik und Wirtschaft<h4>
-<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
-This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
-This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>.
-Finally, this is a <a href="#">link</a>.</p>
-<h3>Master of Economics in International Trade</h3>
-<h4>Jilin University<h4>
-<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
-This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
-This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>.
-Finally, this is a <a href="#">link</a>.</p>	
-<h3>Bachelor of Aquaculture and Fisheries Management</h3>
-<h4>Federal University of Agriculture, Abeokuta<h4>
-<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
-This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
-This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>.
-Finally, this is a <a href="#">link</a>.</p>
+<h3>Master of International Development and Economic</h3>
+<p>Hochschule für Technik und Wirtschaft.</p>
 <hr />
 <h2>Heading Level 2</h2>
 <h3>Heading Level 3</h3>

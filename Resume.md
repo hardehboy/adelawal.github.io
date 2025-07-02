@@ -64,8 +64,6 @@ nav-menu: true
 
 <!-- Table -->
 <h2>Certification</h2>
-
-<h4>Default</h4>
 <div class="table-wrapper">
 	<table>
 		<thead>
@@ -161,15 +159,11 @@ nav-menu: true
 <div class="6u$ 12u$(medium)">
 
 <!-- Buttons -->
-<h3>Buttons</h3>
 <ul class="actions">
-	<li><a href="#" class="button special">Special</a></li>
+	<li><a href="#" class="button special">Download Résumé</a></li>
 	<li><a href="#" class="button">Download Résumé</a></li>
 </ul>
-<ul class="actions">
-	<li><a href="#" class="button big">Big</a></li>
-	<li><a href="#" class="button">Default</a></li>
-	<li><a href="#" class="button small">Small</a></li>
+
 </ul>
 
 <!-- Form -->

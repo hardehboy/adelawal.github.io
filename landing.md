@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: FDI and Agriculture
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'The impact of Chinese foreign direct investment (CFDI) on the annual growth rate (AGR) of agricultural value added in Africa and analyzed the correlation between AGR and employment in the agriculture sector (EIA) from 2003 to 2021.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -13,9 +13,10 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Asian Journal of Agriculture and Development</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>This study examined the impact of Chinese foreign direct investment (CFDI) on the annual growth rate (AGR) of agricultural value added in Africa and analyzed the correlation between AGR and employment in the agriculture sector (EIA) from 2003 to 2021. The study employed annual panel data from 15 African countries obtained from authoritative databases such as the World Development Indicators. To guarantee the dependability of the results, the research carried out several preparatory tests, such as crosssectional 
+dependency, unit root, and cointegration tests. The tests validated that the variables satisfied the requisite criteria for utilizing panel autoregressive distributed lag (ARDL) estimation techniques, such as mean group (MG), pooled MG (PMG), and dynamic fixed effect (DFE). The Hausman test validated the PMG model as the most appropriate for the estimations among the various techniques. The empirical results obtained using the PMG model provided fascinating insights. Evidence demonstrated that CFDI inflows had a favorable and statistically significant impact on the growth rate of agricultural value added in Africa. These findings suggest that Chinese investments have a positive impact on the agriculture sector in Africa. As the economy expands, it creates a favorable atmosphere for the agriculture sector to flourish. Moreover, the presence of EIA is vital in improving Africa’s agricultural growth rate. Based on these discoveries, policymakers can create a supportive atmosphere for the long-term and comprehensive growth of agriculture in Africa. The study’s findings have significant consequences for academic research, educational discourse, and socioeconomic legislation..</p>
 	</div>
 </section>
 
@@ -28,9 +29,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Cite as:</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Lawal, Ademuyiwa A., Huang Xijuang, and Ukasha Zololo. 2025. "Foreign Direct Investment and Agricultural Growth: Panel Data Evidence on Chinese FDI Inflows in African Countries." Asian Journal of Agriculture and Development 22(1): 37-56. https://doi.org/10.37801/ajad2025.22.1.3.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>

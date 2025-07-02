@@ -61,7 +61,6 @@ nav-menu: true
 </div>
 
 
-
 <!-- Table -->
 <h2>Certification</h2>
 <div class="table-wrapper">
@@ -161,7 +160,7 @@ nav-menu: true
 <!-- Buttons -->
 <ul class="actions">
 	<li><a href="#" class="button special">Download Résumé</a></li>
-	<li><a href="#" class="button">Download Résumé</a></li>
+	<li><a href="#" class="button special">Download Résumé</a></li>
 </ul>
 
 </ul>

@@ -17,17 +17,22 @@ nav-menu: true
 
 <!-- Content -->
 <h2 id="content">Work Experience</h2>
-<h3 id="content">Agrivine UK - Project Lead</h3>
+<h3 id="content">Agrivine UK - Project Coordinator</h3>
 <p>Coordinated multi-stakeholder agricultural and land-use projects with government bodies, rural cooperatives, NGOs, and private sector partners.</p>
 <p>Led stakeholder mapping and engagement strategies for inclusive and sustainable land management.</p>
+<h3 id="content">Abiok PLC- Business Strategy Specialist</h3>
+<p>Developed strategic plans that aligned with the company's vision, focusing on expansion into new markets, securing high-value clients, and exploring innovative advertising solution.</p>
+<p>Monitored and reported on the performance of business development activities, utilizing key metrics to assess success against strategic objectives and return on investment with the use of Excel.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Abiok PLC- Business Strategist</h3>
-		<p>Developed strategic plans that aligned with the company's vision, focusing on expansion into new markets, securing high-value clients, and exploring innovative advertising solutions.</p>
+		<h3>Minqing Huayi Ltd.- Foreign Trade Expert</h3>
+		<p>Managed international sales processes including lead sourcing, CRM updates, and client communication.</p>
+		<p>Created and delivered product presentations aligned with client needs and regional demand.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>FCAH - Junior Analyst</h3>
 		<p>Engaged in the collection and analysis of market data, identifying potential areas for economic development and market expansion for community development.</p>
+		<p>Utilized advanced statistical tools and software for the analysis of research data, identifying potential areas for economic development and market expansion for community development.</p>
 </div>
 	<!-- Break -->
 </div>
@@ -47,29 +52,12 @@ nav-menu: true
 <h3>Bachelor of Aquaculture and Fisheries Management</h3>
 <p>Federal University of Agriculture, Abeokuta</p>
 <hr />
-<h2>Heading Level 2</h2>
-<h3>Heading Level 3</h3>
-<h4>Heading Level 4</h4>
-<hr />
-<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+
 
 
 </div>
 
-<h4>Definition</h4>
-<dl>
-	<dt>Item1</dt>
-	<dd>
-		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
-	</dd>
-	<dt>Item2</dt>
-	<dd>
-		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
-	</dd>
-	<dt>Item3</dt>
-	<dd>
-		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
-	</dd>
+
 </dl>
 
 <h4>Actions</h4>
@@ -108,9 +96,7 @@ nav-menu: true
 	</div>
 </div>
 
-<!-- Blockquote -->
-<h3>Blockquote</h3>
-<blockquote>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis.</blockquote>
+
 
 <!-- Table -->
 <h3>Table</h3>
@@ -121,15 +107,15 @@ nav-menu: true
 		<thead>
 			<tr>
 				<th>Name</th>
-				<th>Description</th>
+				<th>Certification</th>
 				<th>Price</th>
 			</tr>
 		</thead>
 		<tbody>
 			<tr>
 				<td>Item1</td>
-				<td>Ante turpis integer aliquet porttitor.</td>
-				<td>29.99</td>
+				<td> Google Project Management.</td>
+				<td>Coursera</td>
 			</tr>
 			<tr>
 				<td>Item2</td>

@@ -31,7 +31,7 @@ dependency, unit root, and cointegration tests. The tests validated that the var
 				</header>
 				<p>Lawal, Ademuyiwa A., Huang Xijuang, and Ukasha Zololo. 2025. "Foreign Direct Investment and Agricultural Growth: Panel Data Evidence on Chinese FDI Inflows in African Countries." Asian Journal of Agriculture and Development 22(1): 37-56. https://doi.org/10.37801/ajad2025.22.1.3.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="generic.html" class="button">Downoad[https://doi.org/10.37801/ajad2025.22.1.3]</a></li>
 				</ul>
 			</div>
 		</div>

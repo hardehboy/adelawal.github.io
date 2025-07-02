@@ -1,7 +1,7 @@
 ---
 title: FDI and Agriculture
 layout: landing
-description: 'The impact of Chinese foreign direct investment (CFDI) on the annual growth rate (AGR) of agricultural value added in Africa and analyzed the correlation between AGR and employment in the agriculture sector (EIA) from 2003 to 2021.'
+description: 'Lawal, Ademuyiwa A., Huang Xijuang, and Ukasha Zololo. 2025. "Foreign Direct Investment and Agricultural Growth: Panel Data Evidence on Chinese FDI Inflows in African Countries." Asian Journal of Agriculture and Development 22(1): 37-56. https://doi.org/10.37801/ajad2025.22.1.3.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -38,38 +38,8 @@ dependency, unit root, and cointegration tests. The tests validated that the var
 			</div>
 		</div>
 	</section>
-	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Rhoncus magna</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Sed nunc ligula</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
+
+	
 </section>
 
 <!-- Three -->

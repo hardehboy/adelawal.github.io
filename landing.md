@@ -1,7 +1,7 @@
 ---
-title: Foreign Direct Investment and Agricultural Growth: Panel Data Evidence on Chinese FDI Inflows in African Countries
-layout: landing
-description: 'Lawal, Ademuyiwa A., Huang Xijuang, and Ukasha Zololo. 2025. "Foreign Direct Investment and Agricultural Growth: Panel Data Evidence on Chinese FDI Inflows in African Countries." Asian Journal of Agriculture and Development 22(1): 37-56. https://doi.org/10.37801/ajad2025.22.1.3.'
+layout: page
+title: FDI and Agriculture
+description: Foreign Direct Investment and Agricultural Growth Panel Data Evidence on Chinese FDI Inflows in African Countries
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
